@@ -4,7 +4,7 @@
 
 **Python-разработчик · компьютерное зрение · локальные LLM и RAG · backend на FastAPI**
 
-Делаю ИИ-системы, которые работают **полностью локально**: на своём железе, без облака и без утечки данных.
+Делаю ИИ-системы, обучаю нейронки, работаю с БД и участвую в хакатонах.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
