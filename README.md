@@ -1,6 +1,6 @@
 <div align="center">
 
-# Привет, я Drethwut 👋
+# Привет, я Drethwut | Egor 👋
 
 **Python-разработчик · компьютерное зрение · локальные LLM и RAG · backend на FastAPI**
 
