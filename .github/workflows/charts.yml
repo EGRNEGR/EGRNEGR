@@ -1,0 +1,49 @@
+name: Profile charts
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/build_charts.py"
+      - ".github/workflows/charts.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-charts
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python -m pip install httpx==0.28.1
+
+      - name: Build charts
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
+          PROFILE_LOGIN: ${{ github.repository_owner }}
+        run: python scripts/build_charts.py
+
+      - name: Commit changes
+        run: |
+          git add assets/charts README.md
+          if git diff --cached --quiet; then
+            echo "Charts are up to date"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update profile charts"
+          git push
