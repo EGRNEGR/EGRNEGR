@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 290" width="410" height="290" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
 <title id="t">Коммиты по проектам</title>
-<desc id="d">FactRAG-NLI: 29; IT_Defender: 9; claude-remote-ops: 3; GaugeVisionAI: 3; KD-pfur/MedIAA: 2; backend-basics: 1; MEDIA: 1</desc>
+<desc id="d">FactRAG-NLI: 88; IT_Defender: 9; claude-remote-ops: 3; GaugeVisionAI: 3; KD-pfur/MedIAA: 2; backend-basics: 1; MEDIA: 1</desc>
 <text x="0" y="22" font-size="17" font-weight="600" fill="#f0f6fc">Коммиты по проектам</text>
 <text x="0" y="44" font-size="13" fill="#9198a1">за последние 12 месяцев</text>
 <line x1="140.2" x2="140.2" y1="68" y2="282" stroke="#3d444d" stroke-width="1"/>
 <text x="130.2" y="92.0" font-size="13" text-anchor="end" fill="#f0f6fc">FactRAG-NLI</text>
-<path d="M140.2,79.0 H384.1 Q388.1,79.0 388.1,83.0 V91.0 Q388.1,95.0 384.1,95.0 H140.2 Z" fill="#e85a0c"><title>FactRAG-NLI: 29</title></path>
-<text x="394.1" y="92.0" font-size="12" font-weight="600" fill="#f0f6fc">29</text>
+<path d="M140.2,79.0 H384.1 Q388.1,79.0 388.1,83.0 V91.0 Q388.1,95.0 384.1,95.0 H140.2 Z" fill="#e85a0c"><title>FactRAG-NLI: 88</title></path>
+<text x="394.1" y="92.0" font-size="12" font-weight="600" fill="#f0f6fc">88</text>
 <text x="130.2" y="122.0" font-size="13" text-anchor="end" fill="#f0f6fc">IT_Defender</text>
-<path d="M140.2,109.0 H213.1 Q217.1,109.0 217.1,113.0 V121.0 Q217.1,125.0 213.1,125.0 H140.2 Z" fill="#f2338f"><title>IT_Defender: 9</title></path>
-<text x="223.1" y="122.0" font-size="12" font-weight="600" fill="#f0f6fc">9</text>
+<path d="M140.2,109.0 H161.5 Q165.5,109.0 165.5,113.0 V121.0 Q165.5,125.0 161.5,125.0 H140.2 Z" fill="#f2338f"><title>IT_Defender: 9</title></path>
+<text x="171.5" y="122.0" font-size="12" font-weight="600" fill="#f0f6fc">9</text>
 <text x="130.2" y="152.0" font-size="13" text-anchor="end" fill="#f0f6fc">claude-remote-ops</text>
-<path d="M140.2,139.0 H161.8 Q165.8,139.0 165.8,143.0 V151.0 Q165.8,155.0 161.8,155.0 H140.2 Z" fill="#f2338f"><title>claude-remote-ops: 3</title></path>
-<text x="171.8" y="152.0" font-size="12" font-weight="600" fill="#f0f6fc">3</text>
+<path d="M140.2,139.0 H144.6 Q148.6,139.0 148.6,143.0 V151.0 Q148.6,155.0 144.6,155.0 H140.2 Z" fill="#f2338f"><title>claude-remote-ops: 3</title></path>
+<text x="154.6" y="152.0" font-size="12" font-weight="600" fill="#f0f6fc">3</text>
 <text x="130.2" y="182.0" font-size="13" text-anchor="end" fill="#f0f6fc">GaugeVisionAI</text>
-<path d="M140.2,169.0 H161.8 Q165.8,169.0 165.8,173.0 V181.0 Q165.8,185.0 161.8,185.0 H140.2 Z" fill="#f2338f"><title>GaugeVisionAI: 3</title></path>
-<text x="171.8" y="182.0" font-size="12" font-weight="600" fill="#f0f6fc">3</text>
+<path d="M140.2,169.0 H144.6 Q148.6,169.0 148.6,173.0 V181.0 Q148.6,185.0 144.6,185.0 H140.2 Z" fill="#f2338f"><title>GaugeVisionAI: 3</title></path>
+<text x="154.6" y="182.0" font-size="12" font-weight="600" fill="#f0f6fc">3</text>
 <text x="130.2" y="212.0" font-size="13" text-anchor="end" fill="#f0f6fc">KD-pfur/MedIAA</text>
-<path d="M140.2,199.0 H153.3 Q157.3,199.0 157.3,203.0 V211.0 Q157.3,215.0 153.3,215.0 H140.2 Z" fill="#f2338f"><title>KD-pfur/MedIAA: 2</title></path>
-<text x="163.3" y="212.0" font-size="12" font-weight="600" fill="#f0f6fc">2</text>
+<path d="M140.2,199.0 H141.8 Q145.8,199.0 145.8,203.0 V211.0 Q145.8,215.0 141.8,215.0 H140.2 Z" fill="#f2338f"><title>KD-pfur/MedIAA: 2</title></path>
+<text x="151.8" y="212.0" font-size="12" font-weight="600" fill="#f0f6fc">2</text>
 <text x="130.2" y="242.0" font-size="13" text-anchor="end" fill="#f0f6fc">backend-basics</text>
-<path d="M140.2,229.0 H144.7 Q148.7,229.0 148.7,233.0 V241.0 Q148.7,245.0 144.7,245.0 H140.2 Z" fill="#f2338f"><title>backend-basics: 1</title></path>
-<text x="154.7" y="242.0" font-size="12" font-weight="600" fill="#f0f6fc">1</text>
+<path d="M140.2,229.0 H140.2 Q143.0,229.0 143.0,231.8 V242.2 Q143.0,245.0 140.2,245.0 H140.2 Z" fill="#f2338f"><title>backend-basics: 1</title></path>
+<text x="149.0" y="242.0" font-size="12" font-weight="600" fill="#f0f6fc">1</text>
 <text x="130.2" y="272.0" font-size="13" text-anchor="end" fill="#f0f6fc">MEDIA</text>
-<path d="M140.2,259.0 H144.7 Q148.7,259.0 148.7,263.0 V271.0 Q148.7,275.0 144.7,275.0 H140.2 Z" fill="#f2338f"><title>MEDIA: 1</title></path>
-<text x="154.7" y="272.0" font-size="12" font-weight="600" fill="#f0f6fc">1</text>
+<path d="M140.2,259.0 H140.2 Q143.0,259.0 143.0,261.8 V272.2 Q143.0,275.0 140.2,275.0 H140.2 Z" fill="#f2338f"><title>MEDIA: 1</title></path>
+<text x="149.0" y="272.0" font-size="12" font-weight="600" fill="#f0f6fc">1</text>
 </svg>
