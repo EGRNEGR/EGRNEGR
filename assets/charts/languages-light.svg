@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 290" width="410" height="290" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 320" width="410" height="320" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
 <title id="t">Языки в коде</title>
 <desc id="d">Python: 66 %; HTML: 26 %; JavaScript: 5,1 %; Shell: 1,6 %; PowerShell: 0,7 %; CSS: 0,7 %</desc>
 <text x="0" y="22" font-size="17" font-weight="600" fill="#1f2328">Языки в коде</text>
 <text x="0" y="44" font-size="13" fill="#59636e">доля объёма кода в публичных проектах</text>
-<line x1="87.4" x2="87.4" y1="68" y2="282" stroke="#d1d9e0" stroke-width="1"/>
+<line x1="87.4" x2="87.4" y1="68" y2="312" stroke="#d1d9e0" stroke-width="1"/>
 <text x="77.4" y="92.0" font-size="13" text-anchor="end" fill="#1f2328">Python</text>
 <path d="M87.4,79.0 H363.2 Q367.2,79.0 367.2,83.0 V91.0 Q367.2,95.0 363.2,95.0 H87.4 Z" fill="#e8590c"><title>Python: 66 %</title></path>
 <text x="373.2" y="92.0" font-size="12" font-weight="600" fill="#1f2328">66 %</text>
