@@ -1,31 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 320" width="410" height="320" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
 <title id="t">Коммиты по проектам</title>
-<desc id="d">FactRAG-NLI: 90; GaugeVisionAI: 22; IT_Defender: 9; claude-remote-ops: 3; KD-pfur/MedIAA: 2; backend-basics: 1; MEDIA: 1; MEDIA-SCI: 1</desc>
+<desc id="d">FactRAG-NLI: 180; GaugeVisionAI: 52; IT_Defender: 9; claude-remote-ops: 3; KD-pfur/MedIAA: 2; MEDIA-SCI: 2; backend-basics: 1; MEDIA: 1</desc>
 <text x="0" y="22" font-size="17" font-weight="600" fill="#f0f6fc">Коммиты по проектам</text>
 <text x="0" y="44" font-size="13" fill="#9198a1">за последние 12 месяцев</text>
 <line x1="140.2" x2="140.2" y1="68" y2="312" stroke="#3d444d" stroke-width="1"/>
 <text x="130.2" y="92.0" font-size="13" text-anchor="end" fill="#f0f6fc">FactRAG-NLI</text>
-<path d="M140.2,79.0 H384.1 Q388.1,79.0 388.1,83.0 V91.0 Q388.1,95.0 384.1,95.0 H140.2 Z" fill="#e85a0c"><title>FactRAG-NLI: 90</title></path>
-<text x="394.1" y="92.0" font-size="12" font-weight="600" fill="#f0f6fc">90</text>
+<path d="M140.2,79.0 H377.1 Q381.1,79.0 381.1,83.0 V91.0 Q381.1,95.0 377.1,95.0 H140.2 Z" fill="#e85a0c"><title>FactRAG-NLI: 180</title></path>
+<text x="387.1" y="92.0" font-size="12" font-weight="600" fill="#f0f6fc">180</text>
 <text x="130.2" y="122.0" font-size="13" text-anchor="end" fill="#f0f6fc">GaugeVisionAI</text>
-<path d="M140.2,109.0 H196.8 Q200.8,109.0 200.8,113.0 V121.0 Q200.8,125.0 196.8,125.0 H140.2 Z" fill="#f2338f"><title>GaugeVisionAI: 22</title></path>
-<text x="206.8" y="122.0" font-size="12" font-weight="600" fill="#f0f6fc">22</text>
+<path d="M140.2,109.0 H205.8 Q209.8,109.0 209.8,113.0 V121.0 Q209.8,125.0 205.8,125.0 H140.2 Z" fill="#f2338f"><title>GaugeVisionAI: 52</title></path>
+<text x="215.8" y="122.0" font-size="12" font-weight="600" fill="#f0f6fc">52</text>
 <text x="130.2" y="152.0" font-size="13" text-anchor="end" fill="#f0f6fc">IT_Defender</text>
-<path d="M140.2,139.0 H161.0 Q165.0,139.0 165.0,143.0 V151.0 Q165.0,155.0 161.0,155.0 H140.2 Z" fill="#f2338f"><title>IT_Defender: 9</title></path>
-<text x="171.0" y="152.0" font-size="12" font-weight="600" fill="#f0f6fc">9</text>
+<path d="M140.2,139.0 H148.2 Q152.2,139.0 152.2,143.0 V151.0 Q152.2,155.0 148.2,155.0 H140.2 Z" fill="#f2338f"><title>IT_Defender: 9</title></path>
+<text x="158.2" y="152.0" font-size="12" font-weight="600" fill="#f0f6fc">9</text>
 <text x="130.2" y="182.0" font-size="13" text-anchor="end" fill="#f0f6fc">claude-remote-ops</text>
-<path d="M140.2,169.0 H144.4 Q148.4,169.0 148.4,173.0 V181.0 Q148.4,185.0 144.4,185.0 H140.2 Z" fill="#f2338f"><title>claude-remote-ops: 3</title></path>
-<text x="154.4" y="182.0" font-size="12" font-weight="600" fill="#f0f6fc">3</text>
+<path d="M140.2,169.0 H140.2 Q144.2,169.0 144.2,173.0 V181.0 Q144.2,185.0 140.2,185.0 H140.2 Z" fill="#f2338f"><title>claude-remote-ops: 3</title></path>
+<text x="150.2" y="182.0" font-size="12" font-weight="600" fill="#f0f6fc">3</text>
 <text x="130.2" y="212.0" font-size="13" text-anchor="end" fill="#f0f6fc">KD-pfur/MedIAA</text>
-<path d="M140.2,199.0 H141.7 Q145.7,199.0 145.7,203.0 V211.0 Q145.7,215.0 141.7,215.0 H140.2 Z" fill="#f2338f"><title>KD-pfur/MedIAA: 2</title></path>
-<text x="151.7" y="212.0" font-size="12" font-weight="600" fill="#f0f6fc">2</text>
-<text x="130.2" y="242.0" font-size="13" text-anchor="end" fill="#f0f6fc">backend-basics</text>
-<path d="M140.2,229.0 H140.2 Q142.9,229.0 142.9,231.8 V242.2 Q142.9,245.0 140.2,245.0 H140.2 Z" fill="#f2338f"><title>backend-basics: 1</title></path>
-<text x="148.9" y="242.0" font-size="12" font-weight="600" fill="#f0f6fc">1</text>
-<text x="130.2" y="272.0" font-size="13" text-anchor="end" fill="#f0f6fc">MEDIA</text>
-<path d="M140.2,259.0 H140.2 Q142.9,259.0 142.9,261.8 V272.2 Q142.9,275.0 140.2,275.0 H140.2 Z" fill="#f2338f"><title>MEDIA: 1</title></path>
-<text x="148.9" y="272.0" font-size="12" font-weight="600" fill="#f0f6fc">1</text>
-<text x="130.2" y="302.0" font-size="13" text-anchor="end" fill="#f0f6fc">MEDIA-SCI</text>
-<path d="M140.2,289.0 H140.2 Q142.9,289.0 142.9,291.8 V302.2 Q142.9,305.0 140.2,305.0 H140.2 Z" fill="#f2338f"><title>MEDIA-SCI: 1</title></path>
-<text x="148.9" y="302.0" font-size="12" font-weight="600" fill="#f0f6fc">1</text>
+<path d="M140.2,199.0 H140.2 Q142.9,199.0 142.9,201.7 V212.3 Q142.9,215.0 140.2,215.0 H140.2 Z" fill="#f2338f"><title>KD-pfur/MedIAA: 2</title></path>
+<text x="148.9" y="212.0" font-size="12" font-weight="600" fill="#f0f6fc">2</text>
+<text x="130.2" y="242.0" font-size="13" text-anchor="end" fill="#f0f6fc">MEDIA-SCI</text>
+<path d="M140.2,229.0 H140.2 Q142.9,229.0 142.9,231.7 V242.3 Q142.9,245.0 140.2,245.0 H140.2 Z" fill="#f2338f"><title>MEDIA-SCI: 2</title></path>
+<text x="148.9" y="242.0" font-size="12" font-weight="600" fill="#f0f6fc">2</text>
+<text x="130.2" y="272.0" font-size="13" text-anchor="end" fill="#f0f6fc">backend-basics</text>
+<path d="M140.2,259.0 H140.2 Q142.2,259.0 142.2,261.0 V273.0 Q142.2,275.0 140.2,275.0 H140.2 Z" fill="#f2338f"><title>backend-basics: 1</title></path>
+<text x="148.2" y="272.0" font-size="12" font-weight="600" fill="#f0f6fc">1</text>
+<text x="130.2" y="302.0" font-size="13" text-anchor="end" fill="#f0f6fc">MEDIA</text>
+<path d="M140.2,289.0 H140.2 Q142.2,289.0 142.2,291.0 V303.0 Q142.2,305.0 140.2,305.0 H140.2 Z" fill="#f2338f"><title>MEDIA: 1</title></path>
+<text x="148.2" y="302.0" font-size="12" font-weight="600" fill="#f0f6fc">1</text>
 </svg>
