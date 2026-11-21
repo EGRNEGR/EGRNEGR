@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 300" width="840" height="300" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
 <title id="t">Активность на GitHub по месяцам, декабрь 2025 - ноябрь 2026</title>
-<desc id="d">декабрь 2025: 0; январь 2026: 0; февраль 2026: 0; март 2026: 14; апрель 2026: 1; май 2026: 0; июнь 2026: 0; июль 2026: 0; август 2026: 0; сентябрь 2026: 22; октябрь 2026: 117; ноябрь 2026: 128</desc>
+<desc id="d">декабрь 2025: 0; январь 2026: 0; февраль 2026: 0; март 2026: 14; апрель 2026: 1; май 2026: 0; июнь 2026: 0; июль 2026: 0; август 2026: 0; сентябрь 2026: 22; октябрь 2026: 117; ноябрь 2026: 130</desc>
 <text x="0" y="22" font-size="17" font-weight="600" fill="#1f2328">Активность по месяцам</text>
-<text x="0" y="44" font-size="13" fill="#59636e">283 вклада (коммиты, PR, новые репозитории) за 28 активных дней</text>
+<text x="0" y="44" font-size="13" fill="#59636e">285 вкладов (коммиты, PR, новые репозитории) за 29 активных дней</text>
 <line x1="36" x2="832" y1="262.0" y2="262.0" stroke="#d1d9e0" stroke-width="1"/>
 <text x="28" y="266.0" font-size="11" text-anchor="end" fill="#59636e">0</text>
 <line x1="36" x2="832" y1="200.0" y2="200.0" stroke="#d1d9e0" stroke-width="1"/>
@@ -31,6 +31,6 @@
 <path d="M720.5,262.0 V120.9 Q720.5,116.9 724.5,116.9 H740.5 Q744.5,116.9 744.5,120.9 V262.0 Z" fill="#d6127f"><title>октябрь 2026: 117</title></path>
 <text x="732.5" y="110.9" font-size="12" font-weight="600" text-anchor="middle" fill="#1f2328">117</text>
 <text x="798.8" y="282" font-size="11" text-anchor="middle" fill="#59636e">ноя</text>
-<path d="M786.8,262.0 V107.3 Q786.8,103.3 790.8,103.3 H806.8 Q810.8,103.3 810.8,107.3 V262.0 Z" fill="#e8590c"><title>ноябрь 2026: 128</title></path>
-<text x="798.8" y="97.3" font-size="12" font-weight="600" text-anchor="middle" fill="#1f2328">128</text>
+<path d="M786.8,262.0 V104.8 Q786.8,100.8 790.8,100.8 H806.8 Q810.8,100.8 810.8,104.8 V262.0 Z" fill="#e8590c"><title>ноябрь 2026: 130</title></path>
+<text x="798.8" y="94.8" font-size="12" font-weight="600" text-anchor="middle" fill="#1f2328">130</text>
 </svg>
